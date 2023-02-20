@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.iconloop.score.example.AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-13T02:06:24" hostname="Hongs-MBP.attlocal.net" time="0.21">
+  <properties/>
+  <testcase name="appHasAName()" classname="com.iconloop.score.example.AppTest" time="0.144"/>
+  <testcase name="appHasAGreeting()" classname="com.iconloop.score.example.AppTest" time="0.047"/>
+  <testcase name="setName()" classname="com.iconloop.score.example.AppTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
